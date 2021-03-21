@@ -3,6 +3,8 @@ Javacriptのクラスを使ってみたよ
 
 
 ## 成果物
+|![ed8c80f176ceebcabbd6d1663e49d91d](https://user-images.githubusercontent.com/45095615/111894942-6d432380-8a52-11eb-940e-473c69966aff.gif)|
+|:--|
 
 
 ## コード
